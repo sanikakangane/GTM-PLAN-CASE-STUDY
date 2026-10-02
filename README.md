@@ -106,4 +106,4 @@ EventNear simplifies fragmented local vendor discovery by bringing verified prof
 
 ## Author
 
-**Sanika Kangane**
+**Sanika Kangane 👩🏻‍💻**
